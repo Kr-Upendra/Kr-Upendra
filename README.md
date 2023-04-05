@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Kr-Upendra
-- 👀 I’m interested in web development 
+#### Thanks for reaching here.
+
+Hello I am Upendra Kumar. 
+
 
 <!---
 Kr-Upendra/Kr-Upendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
