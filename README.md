@@ -2,7 +2,7 @@
 
 Hello I am <strong>Upendra Kumar</strong>. 
 
-Find Beginner Javascript Project ideas [JavaScript](https://javascipt-projects.netlify.app/)
+Find Beginner Javascript Project ideas [JavaScript](https://100-jsprojects.netlify.app/)
 
 
 <!---
