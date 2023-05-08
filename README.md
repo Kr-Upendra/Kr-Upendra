@@ -2,6 +2,8 @@
 
 Hello I am <strong>Upendra Kumar</strong>. 
 
+Find Beginner Javascript Project ideas [JavaScript](https://javascipt-projects.netlify.app/)
+
 
 <!---
 Kr-Upendra/Kr-Upendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
