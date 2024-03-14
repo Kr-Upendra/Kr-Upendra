@@ -13,11 +13,11 @@ I'm a versatile developer based in Prayagraj, with a passion for coding and a wi
 
 Here are some of the skills I possess:
 
-- **Frontend Development**: Reactjs, HTML, CSS, JavaScript, SASS or SCSS
-- **Backend Development**: Node.js, Express.js, NPM, RESTAPIs, API Development, API Documentation
+- **Frontend Development**: Reactjs, HTML, CSS, JavaScript, Tailwind, SASS or SCSS
+- **Backend Development**: Node.js, Express.js, NestJS, NPM, RESTAPIs, API Development, API Documentation
 - **Full-Stack Development**: Combining frontend and backend technologies to build complete applications
 - **Language**: Java, Python, JavaScript
-- **Database**: MySQL, MongoDB
+- **Database**: MySQL, MongoDB, pgSql
 - **Version Control**: Git, GitHub
 - **Android Development**: Started to look in app development with Java & Kotlin and build some basic application.
 - **Other Tools**: Postman, Insomnia, Bash Commands
@@ -26,7 +26,7 @@ Here are some of the skills I possess:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/upendra-kumar-9832801b6/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kumar__upendra)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://kupendra.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://kupendra-v2.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kuupendra564@gmail.com)
 
 ## Recent Projects
