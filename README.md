@@ -7,7 +7,7 @@ I'm a versatile developer based in Prayagraj, with a passion for coding and a wi
 - 💻 I have a strong interest in web and mobile app development.
 - 🌱 I’m constantly learning and improving my skills.
 - 👯 I’m open to collaboration on various software projects.
-- 📫 How to reach me: [Email](mailto:kuupendra564@gmail.com)
+- 📫 How to reach me: [Email](mailto:kupendra.dev@gmail.com)
 
 ## Skills
 
