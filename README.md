@@ -13,11 +13,11 @@ I'm a versatile developer based in Prayagraj, with a passion for coding and a wi
 
 Here are some of the skills I possess:
 
-- **Frontend Development**: Reactjs, HTML, CSS, JavaScript, Tailwind, SASS or SCSS
+- **Frontend Development**: NextJS, ReactJS, VueJS, JavaScript, Tailwind, Material UI, SASS or SCSS
 - **Backend Development**: Node.js, Express.js, NestJS, NPM, RESTAPIs, API Development, API Documentation
 - **Full-Stack Development**: Combining frontend and backend technologies to build complete applications
 - **Language**: Java, Python, JavaScript
-- **Database**: MySQL, MongoDB, pgSql
+- **Database**: MySQL, MongoDB, PostgreSql, Redis
 - **Version Control**: Git, GitHub
 - **Android Development**: Started to look in app development with Java & Kotlin and build some basic application.
 - **Other Tools**: Postman, Insomnia, Bash Commands
@@ -34,6 +34,6 @@ Here are some of the skills I possess:
 - [Project 1: Recipes House](https://github.com/Kr-Upendra/Recipe-House) - Recipes House where you can find different types of recipes house and also you can add recipes.
 - [Project 2: Note Taker](https://github.com/Kr-Upendra/note-taker) - A Full stack practice web application made with technologies like ReactJs, NodeJS, Express, MongoDB etc.
 - [Project 3: Readme To JSON Converter](https://github.com/Kr-Upendra/markdown-to-json) - A python script that converts markdown content into json but at some conditions.
-- [Project 4: Pixel Sangam](https://github.com/Kr-Upendra/Pixel-Sangam) - Pixel Sangam a place to find all kind of solutions. Build with ReactJS and powered by Nodejs express. Visit [Pixel Sangam](https://pixelsangam.netlify.app)
+- [Project 4: Pixel Sangam](https://github.com/Kr-Upendra/Pixel-Sangam) - Pixel Sangam a place to find all kind of solutions. Build with ReactJS and powered by Nodejs express. Visit [Pixel Sangam](https://pixelsangam.in)
 
 Thanks for visiting my profile!
