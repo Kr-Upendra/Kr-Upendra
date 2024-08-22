@@ -14,7 +14,7 @@ I'm a versatile developer based in Prayagraj, with a passion for coding and a wi
 Here are some of the skills I possess:
 
 - **Frontend Development**: NextJS, ReactJS, VueJS, JavaScript, Tailwind, Material UI, SASS or SCSS
-- **Backend Development**: Node.js, Express.js, NestJS, NPM, RESTAPIs, API Development, API Documentation
+- **Backend Development**: NestJs, Node.js, Express.js, Golang, NPM, RESTAPIs, API Development, API Documentation
 - **Full-Stack Development**: Combining frontend and backend technologies to build complete applications
 - **Language**: Java, Python, JavaScript
 - **Database**: MySQL, MongoDB, PostgreSql, Redis
@@ -26,8 +26,8 @@ Here are some of the skills I possess:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/upendra-kumar-9832801b6/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kumar__upendra)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://kupendra-v2.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kuupendra564@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://kupendra.dev/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kupendra.dev@gmail.com)
 
 ## Recent Projects
 
