@@ -11,8 +11,3 @@
 ---
 
 **Tech:** JavaScript · Java · Python · Golang · PostgreSQL · MySQL · MongoDB · Redis · REST APIs · Next.js · Node.js
-
----
-
-![Upendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr-Upendra&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-Upendra&layout=compact&theme=dark)
