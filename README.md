@@ -32,5 +32,5 @@ REST APIs • Microservices • Docker • Cloud Deployment
 ---
 
 ### 📊 GitHub Stats
-![Upendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Upendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kr-Upendra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-Upendra&layout=compact&theme=radical)
