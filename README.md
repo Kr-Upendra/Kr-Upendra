@@ -10,4 +10,4 @@
 
 ---
 
-**Tech:** JavaScript · Java · Python · Golang · PostgreSQL · MySQL · MongoDB · Redis · REST APIs · Next.js · Node.js
+**Tech:** TypeScript · JavaScript · Java · Python · Golang · PostgreSQL · MySQL · MongoDB · Redis · REST APIs · Next.js · Node.js
